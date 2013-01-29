@@ -55,7 +55,7 @@ public class NewgameActivity extends Activity implements OnClickListener {
             }
         })
         .show();
-        
+        //jian was here
          
     }
 	
@@ -68,7 +68,6 @@ public class NewgameActivity extends Activity implements OnClickListener {
       //needed to properly use online settings. NOTE: STILL NOT SURE WHY THIS IS NEEDED....
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
 		StrictMode.setThreadPolicy(policy);
-		
         
         //Declarations
         String APP_ID = getString(R.string.APP_ID); 
@@ -145,7 +144,6 @@ public class NewgameActivity extends Activity implements OnClickListener {
 			pic.setVisibility(ImageView.INVISIBLE);
 			eventsbutton.setVisibility(Button.INVISIBLE);
 			post.setVisibility(Button.INVISIBLE);	
-			//what if i add a comment like jian was here
 		}
 	}
 	
