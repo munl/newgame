@@ -55,7 +55,6 @@ public class NewgameActivity extends Activity implements OnClickListener {
             }
         })
         .show();
-        //jian was here
          
     }
 	

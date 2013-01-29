@@ -35,28 +35,13 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewgameActivity.java" partName="NewgameActivity.java" path="C:/Users/jian/newapp/newgame/src/com/newgame/NewgameActivity.java" title="NewgameActivity.java" tooltip="newgame/src/com/newgame/NewgameActivity.java" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewgameActivity.java" partName="NewgameActivity.java" path="C:/Users/jian/Desktop/jian/work/coding and learning/projects/newgame/newgame/src/com/newgame/NewgameActivity.java" title="NewgameActivity.java" tooltip="newgame/src/com/newgame/NewgameActivity.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/newgame/src/com/newgame/NewgameActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="6999" selectionTopPixel="3255"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventsGeneralFragment.java" partName="EventsGeneralFragment.java" path="C:/Users/jian/newapp/newgame/src/com/newgame/EventsGeneralFragment.java" title="EventsGeneralFragment.java" tooltip="newgame/src/com/newgame/EventsGeneralFragment.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/newgame/src/com/newgame/EventsGeneralFragment.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="59" selectionOffset="3605" selectionTopPixel="218"/>
-</editor>
-<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventsListActivity.java" partName="EventsListActivity.java" path="C:/Users/jian/newapp/newgame/src/com/newgame/EventsListActivity.java" title="EventsListActivity.java" tooltip="newgame/src/com/newgame/EventsListActivity.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/newgame/src/com/newgame/EventsListActivity.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1670" selectionTopPixel="240"/>
-</editor>
-<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventsInvitedFragment.java" partName="EventsInvitedFragment.java" path="C:/Users/jian/newapp/newgame/src/com/newgame/EventsInvitedFragment.java" title="EventsInvitedFragment.java" tooltip="newgame/src/com/newgame/EventsInvitedFragment.java" workbook="DefaultEditorWorkbook">
-<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/newgame/src/com/newgame/EventsInvitedFragment.java"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="582" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1764" selectionTopPixel="675"/>
 </editor>
 </editors>
 <views>
@@ -69,7 +54,7 @@
 <view id="org.eclipse.ui.views.ProblemView" partName="Problems">
 <viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
 <expanded>
-<category IMemento.internal.id="Warnings (19 items)"/>
+<category IMemento.internal.id="Warnings (20 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
@@ -248,7 +233,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.21611446" ratioLeft="287" ratioRight="1041" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.7541806" ratioLeft="451" ratioRight="147" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="com.android.ide.eclipse.ddms.views.LogCatView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
 <page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
@@ -389,30 +374,24 @@
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/NewgameActivity.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventDetailsActivity.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventsGeneralFragment.java"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventsAttendingFragment.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventsListActivity.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" path="/newgame/res/layout/eventdetails.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" path="/newgame/res/layout/eventgeninfo.xml"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/NewgameActivity.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventsGeneralFragment.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/EventsInvitedFragment.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/newgame/src/com/newgame/NewgameActivity.java"/>
 </editors>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position/>
 </item>
-<item historyLabel="EventsAttendingFragment.java" index="3">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
-<position info="not_deleted" x="0" y="0"/>
-</item>
-<item historyLabel="EventsGeneralFragment.java" index="2">
-<position/>
-</item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2135" y="6"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
@@ -430,7 +409,7 @@
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
@@ -442,7 +421,7 @@
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="2325" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
@@ -457,90 +436,96 @@
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="4208" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="3727" y="0"/>
 </item>
-<item historyLabel="eventdetails.xml" index="5"/>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="eventdetails.xml" index="4"/>
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="3727" y="0"/>
 </item>
-<item historyLabel="eventgeninfo.xml" index="6"/>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="eventgeninfo.xml" index="5"/>
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="3727" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="4208" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2025" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="4208" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2025" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="4208" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2025" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="4208" y="0"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2025" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="1130" y="70"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="2025" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="3605" y="59"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="1734" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="3605" y="59"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="1726" y="0"/>
 </item>
 <item historyLabel="EventsGeneralFragment.java" index="2">
 <position info="not_deleted" x="3605" y="59"/>
 </item>
-<item historyLabel="EventsListActivity.java" index="4">
+<item historyLabel="EventsListActivity.java" index="3">
 <position info="not_deleted" x="1726" y="0"/>
 </item>
-<item historyLabel="NewgameActivity.java" index="7">
+<item historyLabel="NewgameActivity.java" index="6">
 <position info="not_deleted" x="3120" y="4"/>
 </item>
-<item historyLabel="NewgameActivity.java" index="7">
+<item historyLabel="NewgameActivity.java" index="6">
 <position info="not_deleted" x="4168" y="0"/>
 </item>
-<item historyLabel="NewgameActivity.java" index="7">
+<item historyLabel="NewgameActivity.java" index="6">
 <position info="not_deleted" x="2781" y="0"/>
 </item>
-<item historyLabel="NewgameActivity.java" index="7">
+<item historyLabel="NewgameActivity.java" index="6">
 <position info="not_deleted" x="2843" y="0"/>
 </item>
-<item historyLabel="EventsGeneralFragment.java" index="8">
+<item historyLabel="EventsGeneralFragment.java" index="7">
 <position info="not_deleted" x="3605" y="59"/>
 </item>
-<item historyLabel="EventsInvitedFragment.java" index="9">
+<item historyLabel="EventsInvitedFragment.java" index="8">
 <position info="not_deleted" x="0" y="0"/>
 </item>
-<item historyLabel="NewgameActivity.java" index="7">
+<item historyLabel="NewgameActivity.java" index="6">
 <position info="not_deleted" x="6999" y="7"/>
 </item>
-<item historyLabel="EventsGeneralFragment.java" index="8">
+<item historyLabel="EventsGeneralFragment.java" index="7">
 <position info="not_deleted" x="3605" y="59"/>
 </item>
-<item active="true" historyLabel="EventsInvitedFragment.java" index="9">
+<item historyLabel="EventsInvitedFragment.java" index="8">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="NewgameActivity.java" index="9">
+<position info="not_deleted" x="7472" y="0"/>
+</item>
+<item active="true" historyLabel="NewgameActivity.java" index="9">
 <position info="not_deleted" x="0" y="0"/>
 </item>
 </navigationHistory>
@@ -565,6 +550,9 @@
 </trimLayout>
 </window>
 <mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewgameActivity.java" tooltip="newgame/src/com/newgame/NewgameActivity.java">
+<persistable path="/newgame/src/com/newgame/NewgameActivity.java"/>
+</file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="EventsInvitedFragment.java" tooltip="newgame/src/com/newgame/EventsInvitedFragment.java">
 <persistable path="/newgame/src/com/newgame/EventsInvitedFragment.java"/>
 </file>
@@ -606,9 +594,6 @@
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" name="eventattending.xml" tooltip="newgame/res/layout/eventattending.xml">
 <persistable path="/newgame/res/layout/eventattending.xml"/>
-</file>
-<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" name="eventitemlayout.xml" tooltip="newgame/res/layout/eventitemlayout.xml">
-<persistable path="/newgame/res/layout/eventitemlayout.xml"/>
 </file>
 </mruList>
 </workbench>
